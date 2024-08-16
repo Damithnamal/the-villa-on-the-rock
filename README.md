@@ -56,3 +56,21 @@ Access the application:
 
 Open your web browser and go to http://localhost:3000.
 That's it! 🎉 The system should now be running on your local machine.
+
+![App Screenshot](https://github.com/Damithnamal/the-villa-on-the-rock/blob/master/image/staff%20login.png)
+
+![App Screenshot](https://github.com/Damithnamal/the-villa-on-the-rock/blob/master/image/admin%20dashboard.png)
+
+![App Screenshot](https://github.com/Damithnamal/the-villa-on-the-rock/blob/master/image/rooms.png)
+
+![App Screenshot](https://github.com/Damithnamal/the-villa-on-the-rock/blob/master/image/room%20booking%20status%20and%20excell%20report%20convert.png)
+
+![App Screenshot](https://github.com/Damithnamal/the-villa-on-the-rock/blob/master/image/add%20roooms.png)
+
+![App Screenshot](https://github.com/Damithnamal/the-villa-on-the-rock/blob/master/image/paymentdetails.png)
+
+![App Screenshot](https://github.com/Damithnamal/the-villa-on-the-rock/blob/master/image/invoice%20generate.png)
+
+![App Screenshot](https://github.com/Damithnamal/the-villa-on-the-rock/blob/master/image/graph%20analysis.png)
+
+![App Screenshot](https://github.com/Damithnamal/the-villa-on-the-rock/blob/master/image/staff%20management.png)
